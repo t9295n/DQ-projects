@@ -1,1 +1,1 @@
-# Collection of DQ projects
+Collection of DQ projects to serve as future reference
